@@ -1,6 +1,4 @@
 import Text "mo:base/Text";
-import Nat "mo:base/Nat";
-import Nat8 "mo:base/Nat8";
 import Array "mo:base/Array";
 import Random "mo:base/Random";
 import Debug "mo:base/Debug";
